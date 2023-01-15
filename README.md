@@ -132,6 +132,7 @@ int main(void)
 [bilibili弹幕网](https://www.bilibili.com "点击进入b站")<br>
 [Github](https://github.com "点击进入Github")
 
-![壁纸截图](C://Users//master//Desktop//x.png "图片标题")
+![壁纸截图](https://great.wzznft.com/i/2023/01/15/qylt1m.png "图片标题")
 
+###  上传的图片地址不允许是本地图片地址，将本地图片上传到某个图片网站，生成一个图片的网络URL(网络地址)，用网络地址，github就可以访问加载图片了
 
